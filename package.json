@@ -1,0 +1,12 @@
+{
+  "name": "codespace-tutorial-22",
+  "version": "1.0.0",
+  "description": "A simple repository to understand how codespaces work",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
