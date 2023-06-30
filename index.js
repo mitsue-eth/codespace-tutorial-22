@@ -1,1 +1,1 @@
-console.log('Hello to Codespaces!')
+console.log('Hello to Codespaces! PORT: ', process.env.PORT)
